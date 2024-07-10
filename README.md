@@ -1,5 +1,8 @@
 # SCRIPT FORUMAI TASK 2
 
+Sebelum jalanin script alangkah baiknya kalian gabung di channel [UGD AIRDROP](https://t.me/UGDAirdrop).
+
+# Eksekusi Script
 1. Buka [Codespace](https://github.com/codespaces) / Gitpod, kalau Replit saya belum coba.
 2. Pastikan sudah menginstall NodeJs. Cek dengan
    ```bash
@@ -33,7 +36,5 @@
    node --experimental-modules main.mjs
    ```
 
-####################################
-##           UGD AIRDROP          ##
-##     https://t.me/UGDAirdrop    ##
-####################################
+# Lisensi
+Ubah jika di perlukan
